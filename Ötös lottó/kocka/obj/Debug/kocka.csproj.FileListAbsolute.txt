@@ -1,0 +1,90 @@
+D:\programozásaim\kocka\kocka\bin\Debug\kocka.exe.config
+D:\programozásaim\kocka\kocka\bin\Debug\kocka.exe
+D:\programozásaim\kocka\kocka\bin\Debug\kocka.pdb
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.csprojAssemblyReference.cache
+D:\programozásaim\kocka\kocka\obj\Debug\MainWindow.g.cs
+D:\programozásaim\kocka\kocka\obj\Debug\App.g.cs
+D:\programozásaim\kocka\kocka\obj\Debug\kocka_MarkupCompile.cache
+D:\programozásaim\kocka\kocka\obj\Debug\kocka_MarkupCompile.lref
+D:\programozásaim\kocka\kocka\obj\Debug\MainWindow.baml
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.g.resources
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.Properties.Resources.resources
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.csproj.GenerateResource.cache
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.exe
+D:\programozásaim\kocka\kocka\obj\Debug\kocka.pdb
+C:\Users\morva\Desktop\kocka\kocka\bin\Debug\kocka.exe.config
+C:\Users\morva\Desktop\kocka\kocka\bin\Debug\kocka.exe
+C:\Users\morva\Desktop\kocka\kocka\bin\Debug\kocka.pdb
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka_MarkupCompile.cache
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka_MarkupCompile.lref
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.g.resources
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.Properties.Resources.resources
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.exe
+C:\Users\morva\Desktop\kocka\kocka\obj\Debug\kocka.pdb
+d:\Aktuális\kocka (1)\kocka\kocka\bin\Debug\kocka.exe.config
+d:\Aktuális\kocka (1)\kocka\kocka\bin\Debug\kocka.exe
+d:\Aktuális\kocka (1)\kocka\kocka\bin\Debug\kocka.pdb
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.csprojAssemblyReference.cache
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\MainWindow.g.cs
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\App.g.cs
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka_MarkupCompile.cache
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka_MarkupCompile.lref
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\MainWindow.baml
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.g.resources
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.Properties.Resources.resources
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.csproj.GenerateResource.cache
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.exe
+d:\Aktuális\kocka (1)\kocka\kocka\obj\Debug\kocka.pdb
+C:\Users\vassr\Desktop\kocka\bin\Debug\kocka.exe.config
+C:\Users\vassr\Desktop\kocka\bin\Debug\kocka.exe
+C:\Users\vassr\Desktop\kocka\bin\Debug\kocka.pdb
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.csprojAssemblyReference.cache
+C:\Users\vassr\Desktop\kocka\obj\Debug\MainWindow.g.cs
+C:\Users\vassr\Desktop\kocka\obj\Debug\App.g.cs
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka_MarkupCompile.cache
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka_MarkupCompile.lref
+C:\Users\vassr\Desktop\kocka\obj\Debug\MainWindow.baml
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.g.resources
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.Properties.Resources.resources
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.csproj.GenerateResource.cache
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.exe
+C:\Users\vassr\Desktop\kocka\obj\Debug\kocka.pdb
+C:\Users\morva\Desktop\Új mappa\kocka\bin\Debug\kocka.exe.config
+C:\Users\morva\Desktop\Új mappa\kocka\bin\Debug\kocka.exe
+C:\Users\morva\Desktop\Új mappa\kocka\bin\Debug\kocka.pdb
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka_MarkupCompile.cache
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka_MarkupCompile.lref
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.g.resources
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.Properties.Resources.resources
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.exe
+C:\Users\morva\Desktop\Új mappa\kocka\obj\Debug\kocka.pdb
+C:\Users\vassr\Desktop\Ötös lottó\kocka\bin\Debug\kocka.exe.config
+C:\Users\vassr\Desktop\Ötös lottó\kocka\bin\Debug\kocka.exe
+C:\Users\vassr\Desktop\Ötös lottó\kocka\bin\Debug\kocka.pdb
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.csproj.AssemblyReference.cache
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\MainWindow.g.cs
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\App.g.cs
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka_MarkupCompile.cache
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka_MarkupCompile.lref
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\MainWindow.baml
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.g.resources
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.Properties.Resources.resources
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.csproj.GenerateResource.cache
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.exe
+C:\Users\vassr\Desktop\Ötös lottó\kocka\obj\Debug\kocka.pdb
